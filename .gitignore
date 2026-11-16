@@ -1,3 +1,9 @@
+@"
 venv/
+.venv/
+__pycache__/
 *.pt
-testing/*.mp4
+*.mp4
+*.avi
+*.mov
+"@ | Out-File -FilePath .gitignore -Encoding utf8

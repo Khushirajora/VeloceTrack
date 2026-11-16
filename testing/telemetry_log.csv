@@ -1,4 +1,3 @@
-Timestamp,Vehicle_ID,Vehicle_Type,Direction
-2026-09-13 22:12:10,1,car,OUT
-2026-09-13 22:12:20,4,car,OUT
-2026-09-13 22:12:42,46,car,OUT
+Timestamp,Vehicle_ID,Vehicle_Type
+2026-11-16 18:42:01,1,car
+2026-11-16 18:42:11,4,car
